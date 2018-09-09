@@ -18,7 +18,7 @@ if (sayHiToGrandma(string).toLowerCase === sayHi) {
   sayHiToGrandma(string) = "I can't hear you"
 } else if (sayHiToGrandma(string).toUpperCase === sayHi) {
   sayHiToGrandma(string) = "YES INDEED"
-} else if (sayHiToGrandma(string) === "I love you, Grandma")
+} else if (sayHiToGrandma(string) === "I love you, Grandma.")
 }
 
 
