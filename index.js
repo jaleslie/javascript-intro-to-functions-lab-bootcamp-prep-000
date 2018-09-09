@@ -15,11 +15,10 @@ function logWhisper(string) {
 }
 
 if (sayHiToGrandma(string).toLowerCase === sayHi) {
-  sayHiToGrandma = "I can't hear you"
+  sayHiToGrandma(string) = "I can't hear you"
 } else if (sayHiToGrandma(string).toUpperCase === sayHi) {
-  var response = "YES INDEED"
-} else {
-  var response = ""
+  sayHiToGrandma(string) = "YES INDEED"
+} else if ()
 }
 
 
