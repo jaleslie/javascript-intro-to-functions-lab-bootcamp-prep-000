@@ -18,8 +18,9 @@ if (sayHiToGrandma(string).toLowerCase === sayHi) {
   var response = "I can't hear you"
 }
 if (sayHiToGrandma(string).toUpperCase === sayHi) {
-  var response = "Yes "
+  var response = "YES INDEED"
 }
+
 
 
 function sayHiToGrandma(string) {
