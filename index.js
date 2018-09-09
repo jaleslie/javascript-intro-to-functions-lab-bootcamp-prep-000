@@ -19,7 +19,7 @@ if (sayHiToGrandma(string).toLowerCase === sayHi) {
 } else if (sayHiToGrandma(string).toUpperCase === sayHi) {
   var response = "YES INDEED"
 } else {
-  
+  var response = ""
 }
 
 
