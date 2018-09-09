@@ -20,4 +20,3 @@ if (sayHiToGrandma(string).toLowerCase === sayHi) {
 function sayHiToGrandma(string) {
   return response
 }
-}
