@@ -20,9 +20,5 @@ function sayHiToGrandma(string) {
   var yesanswer = "YES INDEED!"
   if (string.toLowerCase() === string) return noanswer
   if (string.toUpperCase() === string) return yesanswer
+  if (string === "I love you, Grandma.") return "I love you, too"
 }
-
-// function sayHiToGrandma(string) {
-// var yesanswer = "YES INDEED!"
-//  if (string.toUpperCase() === string) return yesanswer
-// }
