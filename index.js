@@ -22,6 +22,9 @@ if (sayHiToGrandma(string).toLowerCase === sayHi) {
   var sonny = "I love you, too."
 }
 
+function sayHiToGrandma(string) {
+  return sonny
+}
 
 
 
