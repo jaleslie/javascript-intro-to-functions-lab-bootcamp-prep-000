@@ -18,10 +18,10 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
   var noanswer = "I can't hear you!"
   if (string.toLowerCase() === string) return noanswer
+  if (string.)
 }
 
 function sayHiToGrandma(string) {
   var yesanswer = "YES INDEED!"
-  if else (string.toUpperCase() === string) return yesanswer } {
-   if else () 
-  }
+  if (string.toUpperCase() === string) return yesanswer
+}
